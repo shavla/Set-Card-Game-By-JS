@@ -17,7 +17,7 @@ class Layout {
     }
 }
 _a = Layout;
-Layout.logoAddress = "./assets/images/logo.png";
+Layout.logoAddress = "./src/assets/images/logo.png";
 Layout.cardLayout = {
     width: 300,
     height: 170,
